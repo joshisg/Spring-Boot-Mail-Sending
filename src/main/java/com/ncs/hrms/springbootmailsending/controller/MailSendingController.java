@@ -7,7 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.ncs.hrms.springbootmailsending.model.Candidate;
 import com.ncs.hrms.springbootmailsending.service.MailService;
-
+// @Sushant Joshi
+// Owner
 @RestController
 @RequestMapping("/email")
 public class MailSendingController {
